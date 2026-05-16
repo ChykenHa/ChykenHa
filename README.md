@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on my DevOps internship and developing the MindConnect platform.<br><br>🌱 I’m currently learning advanced Kubernetes, Docker, CI/CD pipelines, and AI/NLP integration.<br><br>👯 I’m looking to collaborate on backend development projects using C#, .NET, or Java.<br><br>💬 Ask me about software architecture, backend systems, or project management for dev teams.<br><br>⚡ Fun fact: When I'm not coding, I'm either collecting mecha action figures, setting up aquariums, or playing Valorant!
+🔭 I’m having 3 months experiences working on my DevOps internship and developing the MindConnect platform.<br><br>🌱 I’m currently learning advanced Kubernetes, Docker, CI/CD pipelines, and AI/NLP integration.<br><br>👯 I’m looking to collaborate on backend development projects using C#, .NET, or Java.<br><br>💬 Ask me about software architecture, backend systems, or project management for dev teams.<br><br>⚡ Fun fact: When I'm not coding, I'm either collecting mecha action figures, setting up aquariums, or playing Valorant!
 
 
 ## 🌐 Socials:
